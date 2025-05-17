@@ -167,11 +167,12 @@
       .submitBtn {
         font-size: 0.9rem;
       }
-
+    }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199.98px) {
     /* Your styles for large devices */
+    
 }
 
 /* Extra large devices (large desktops, 1200px and up) */

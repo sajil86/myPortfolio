@@ -1,18 +1,28 @@
 // BIRD ANIMATION
 VANTA.BIRDS({
     el: "#vanta-bg", // The element where the effect should be applied
-    mouseControls: true,
-    touchControls: true,
-    gyroControls: false,
-    minHeight: 200.0,
-    minWidth: 200.0,
-    scale: 1.0,
-    scaleMobile: 1.0,
+    // mouseControls: true,
+    // touchControls: true,
+    // gyroControls: false,
+    // minHeight: 200.0,
+    // minWidth: 200.0,
+    // scale: 1.0,
+    // scaleMobile: 1.0,
     backgroundColor: 0x11071f, // Updated background color
-    // color1: 0x1e00ff,
-    // color2: 0xd1ff,
-    color1: 0xded,
-  color2: 0xebf1ff,
+    
+    mouseControls: true,
+  touchControls: true,
+  gyroControls: false,
+  minHeight: 200.00,
+  minWidth: 200.00,
+  scale: 1.00,
+  scaleMobile: 1.00,
+  // color1: 0x2d37d4,
+  color1: 0x463759,
+  color2: 0xc335ff,
+  birdSize: 0.80,
+  speedLimit: 3.00
+ 
   });
   
   
